@@ -1,0 +1,7 @@
+PROMPT ACCURACY STATS
+=====================
+
+Prompt V1: 66.78% | 301/450
+Prompt V2: 83.56% | 376/450
+Prompt V3: 83.78% | 377/450
+
